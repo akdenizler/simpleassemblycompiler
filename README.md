@@ -1,3 +1,5 @@
+# Simple Assembler
+
 Tiny assembler that turns a toy assembly language into 8-bit machine code bytes in the `00AABBCC` format.
 
 - **A** = dest register (00..11)
