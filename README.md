@@ -1,7 +1,3 @@
-# simpleassemblycompiler
-
-# simpleassemblycompiler
-
 Tiny assembler that turns a toy assembly language into 8-bit machine code bytes in the `00AABBCC` format.
 
 - **A** = dest register (00..11)
@@ -20,8 +16,6 @@ It’s a minimal end-to-end “compiler” (strictly, an assembler) for teaching
 - tokenizing a simple language,
 - parsing instructions,
 - emitting a fixed binary format.
-
-Speed is not a priority; clarity is.
 
 ---
 
